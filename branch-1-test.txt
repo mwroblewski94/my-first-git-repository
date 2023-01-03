@@ -1,2 +1,3 @@
 linijka tekstu
 kolejna linijka tekstu
+inna linijka tekstu
